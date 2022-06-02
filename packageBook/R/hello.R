@@ -15,7 +15,7 @@
 library(devtools)
 packageVersion("devtools")
 
+
 hello <- function() {
   print("Teste ok")
-    use_r("strsplit1")
 }
